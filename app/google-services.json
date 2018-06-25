@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "672700191546",
+    "firebase_url": "https://despilfarro-44d35.firebaseio.com",
+    "project_id": "despilfarro-44d35",
+    "storage_bucket": "despilfarro-44d35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672700191546:android:f6d5b2eab9320847",
+        "android_client_info": {
+          "package_name": "com.despilfarro.rguerrerop.despilfarro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672700191546-dkad9tqika89bv8hips88gnlah767b7n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "672700191546-dkad9tqika89bv8hips88gnlah767b7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm8ribf6hjxa1MCgbLbLduoUFtEhYGRwA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
